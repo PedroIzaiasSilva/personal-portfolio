@@ -58,7 +58,7 @@ const Experience = () => {
           </div>
         </div>
         { /* END OF FRONTEND */}
-        <div className="experience__backend">
+        {/* <div className="experience__backend">
         <h3>Backend and Database</h3>
           <div className="experience__content">
             <article className='experience__details'>
@@ -80,7 +80,7 @@ const Experience = () => {
               </div>
             </article>
           </div>
-        </div>
+        </div> */}
         {/* End of database */}
       </div>
 
