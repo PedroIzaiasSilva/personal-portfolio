@@ -20,7 +20,7 @@ const About = () => {
             <article className='about__card'>
               <FaUniversity className='about__icon'/>
               <h5>Faculty</h5>
-              <small>Unifanor Wyden</small>
+              <small>Unifanor Wyden</small><br/>
               <small>analysis and systems development</small>
               <small></small>
             </article>
